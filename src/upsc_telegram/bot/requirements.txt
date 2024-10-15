@@ -1,0 +1,5 @@
+python-telegram-bot
+requests
+torch==2.1.0
+Pillow
+transformers
